@@ -1,8 +1,6 @@
 package fi.oamk.calories
 
-//import androidx.compose.material3.icons.filled.ArrowDropDown
-//import androidx.compose.material3.icons.filled.ArrowDropUp
-//import androidx.compose.material3.SegmentedButtonDefaults.Icon
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
